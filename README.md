@@ -9,7 +9,7 @@ The source code and comments are in English.
 
 ### Input
 
-- [Input Mapping e Azioni - [Godot v3.0]](https://github.com/crystal-bit/godot-tutorials/tree/master/tutorials/input-mapping)
+- [Input Mapping e Azioni [Godot v3.0]](https://github.com/crystal-bit/godot-tutorials/tree/master/tutorials/input-mapping)
  
 ## Contributing
 
