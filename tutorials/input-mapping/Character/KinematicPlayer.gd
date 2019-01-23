@@ -25,11 +25,9 @@ func _process(delta):
 
 func update_animated_sprite(velocity):
 	if velocity.x == -1:
-		flip_h = false
 		play('walk_left')
 	elif velocity.x == 1:
-		flip_h = true
-		play('walk_left')
+		play('walk_right')
 	elif velocity.y == -1:
 		play('walk_up')
 	elif velocity.y == 1:
@@ -41,3 +39,5 @@ func update_animated_sprite(velocity):
 			play('stand_up')
 		elif animation == 'walk_down':
 			play('stand_down')
+		elif animation == 'walk_right':
+			play('stand_right')

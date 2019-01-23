@@ -2,12 +2,12 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/logo-crystalbit.png-aadc5dc757b16a17f426f107fb033760.stex"
+path="res://.import/cultist1_down.png-95d119e0c0b5b7ed952c0fd7293debcd.stex"
 
 [deps]
 
-source_file="res://logo-crystalbit.png"
-dest_files=[ "res://.import/logo-crystalbit.png-aadc5dc757b16a17f426f107fb033760.stex" ]
+source_file="res://Character/spritesheet/cultist1_down.png"
+dest_files=[ "res://.import/cultist1_down.png-95d119e0c0b5b7ed952c0fd7293debcd.stex" ]
 
 [params]
 

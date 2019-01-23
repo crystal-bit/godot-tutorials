@@ -1,47 +1,57 @@
-[gd_resource type="SpriteFrames" load_steps=10 format=2]
+[gd_resource type="SpriteFrames" load_steps=11 format=2]
 
-[ext_resource path="res://Character/spritesheet/walk-down-1.png" type="Texture" id=1]
-[ext_resource path="res://Character/spritesheet/walk-down-2.png" type="Texture" id=2]
-[ext_resource path="res://Character/spritesheet/walk-down-3.png" type="Texture" id=3]
-[ext_resource path="res://Character/spritesheet/walk-left-1.png" type="Texture" id=4]
-[ext_resource path="res://Character/spritesheet/walk-left-2.png" type="Texture" id=5]
-[ext_resource path="res://Character/spritesheet/walk-left-3.png" type="Texture" id=6]
-[ext_resource path="res://Character/spritesheet/walk-up-1.png" type="Texture" id=7]
-[ext_resource path="res://Character/spritesheet/walk-up-2.png" type="Texture" id=8]
-[ext_resource path="res://Character/spritesheet/walk-up-3.png" type="Texture" id=9]
+[ext_resource path="res://Character/spritesheet/cultist-sprites/cultist-left-1.png" type="Texture" id=1]
+[ext_resource path="res://Character/spritesheet/cultist-sprites/cultist-left-0.png" type="Texture" id=2]
+[ext_resource path="res://Character/spritesheet/cultist-sprites/cultist-down-1.png" type="Texture" id=3]
+[ext_resource path="res://Character/spritesheet/cultist-sprites/cultist-down-0.png" type="Texture" id=4]
+[ext_resource path="res://Character/spritesheet/cultist-sprites/cultist-down-2.png" type="Texture" id=5]
+[ext_resource path="res://Character/spritesheet/cultist-sprites/sprite-0.png" type="Texture" id=6]
+[ext_resource path="res://Character/spritesheet/cultist-sprites/sprite-1.png" type="Texture" id=7]
+[ext_resource path="res://Character/spritesheet/cultist-sprites/cultist-up-1.png" type="Texture" id=8]
+[ext_resource path="res://Character/spritesheet/cultist-sprites/cultist-up-0.png" type="Texture" id=9]
+[ext_resource path="res://Character/spritesheet/cultist-sprites/cultist-up-2.png" type="Texture" id=10]
 
 [resource]
 
 animations = [ {
-"frames": [ ExtResource( 1 ), ExtResource( 2 ), ExtResource( 3 ), ExtResource( 2 ) ],
+"frames": [ ExtResource( 1 ), ExtResource( 2 ) ],
+"loop": true,
+"name": "walk_right",
+"speed": 5.0
+}, {
+"frames": [ ExtResource( 3 ), ExtResource( 4 ), ExtResource( 5 ), ExtResource( 4 ) ],
 "loop": true,
 "name": "walk_down",
 "speed": 5.0
 }, {
-"frames": [ ExtResource( 4 ), ExtResource( 5 ), ExtResource( 6 ), ExtResource( 5 ) ],
+"frames": [ ExtResource( 2 ) ],
+"loop": false,
+"name": "stand_right",
+"speed": 5.0
+}, {
+"frames": [ ExtResource( 6 ), ExtResource( 7 ) ],
 "loop": true,
 "name": "walk_left",
 "speed": 5.0
 }, {
-"frames": [ ExtResource( 5 ) ],
-"loop": true,
+"frames": [ ExtResource( 6 ) ],
+"loop": false,
 "name": "stand_left",
 "speed": 5.0
 }, {
-"frames": [ ExtResource( 7 ), ExtResource( 8 ), ExtResource( 9 ), ExtResource( 8 ) ],
+"frames": [ ExtResource( 8 ), ExtResource( 9 ), ExtResource( 10 ), ExtResource( 9 ) ],
 "loop": true,
 "name": "walk_up",
 "speed": 5.0
 }, {
-"frames": [ ExtResource( 2 ) ],
-"loop": true,
+"frames": [ ExtResource( 4 ) ],
+"loop": false,
 "name": "stand_down",
 "speed": 5.0
 }, {
-"frames": [ ExtResource( 8 ) ],
-"loop": true,
+"frames": [ ExtResource( 10 ) ],
+"loop": false,
 "name": "stand_up",
 "speed": 5.0
 } ]
-_sections_unfolded = [ "Resource" ]
 

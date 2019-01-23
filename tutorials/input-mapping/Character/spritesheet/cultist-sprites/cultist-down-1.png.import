@@ -2,18 +2,19 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/walk-down-1.png-4d138ff42ec8e4c99c86928e93fc41f3.stex"
+path="res://.import/cultist-down-1.png-5420830e6ebb33f12774db12a8137c87.stex"
 
 [deps]
 
-source_file="res://Character/spritesheet/walk-down-1.png"
-dest_files=[ "res://.import/walk-down-1.png-4d138ff42ec8e4c99c86928e93fc41f3.stex" ]
+source_file="res://Character/spritesheet/cultist-sprites/cultist-down-1.png"
+dest_files=[ "res://.import/cultist-down-1.png-5420830e6ebb33f12774db12a8137c87.stex" ]
 
 [params]
 
 compress/mode=0
 compress/lossy_quality=0.7
 compress/hdr_mode=0
+compress/bptc_ldr=0
 compress/normal_map=0
 flags/repeat=0
 flags/filter=false
@@ -23,6 +24,7 @@ flags/srgb=2
 process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
+process/invert_color=false
 stream=false
 size_limit=0
 detect_3d=false
