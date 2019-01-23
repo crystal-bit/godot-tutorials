@@ -6,3 +6,5 @@ export_presets.cfg
 # Mono-specific ignores
 .mono/
 
+# Dolphin (Plasma KDE5)  
+.directory
