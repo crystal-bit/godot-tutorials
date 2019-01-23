@@ -5,6 +5,7 @@
 
 ## Assets
 
+- [Hairic95](https://github.com/Hairic95) - Cultist character sprites
 - Retrocade Media - Controller Pack: https://retrocademedia.itch.io/controller-pack
 - Hyonoo - Free Pixel Keyboard Keys: https://twitter.com/hyohnoo/status/747895236861530112
 - Tung Le - Godot Pixel Art Logo: https://twitter.com/tungkradle
@@ -16,5 +17,5 @@
 </p>
 
 <p align="center">
-  <img width="60%" src="https://imgur.com/580T77P.png">
+  <img width="60%" src="https://user-images.githubusercontent.com/6860637/51623804-ccbc4c00-1f39-11e9-8e1a-038c023ce2c9.png">
 </p>
