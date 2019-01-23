@@ -1,9 +1,11 @@
 # Godot Tutorials
 
-Godot projects for the video tutorials of 
-the [Crystal Bit YT channel](https://www.youtube.com/channel/UCFVgUrvckqp0i_pbCj3wjfA) (*videos are in Italian*).
+Godot projects used in the tutorials of 
+the [Crystal Bit YT channel](https://www.youtube.com/channel/UCFVgUrvckqp0i_pbCj3wjfA).
 
-The source code and comments are in English.
+- _source code and comments are in English_
+- _video tutorials are in Italian_
+- the content in this repository is **free for everyone to use, share & redistribute**
 
 ## Tutorial list
 
