@@ -3,6 +3,19 @@
 - **Godot version**: v3.1 (originally created with v3.0)
 - **Link to YouTube video [ITA]**: [Input mapping e azioni - Godot Engine Tutorial](https://youtu.be/Dgr7q80GBaE)
 
+Gives visual feedback on which button or key was pressed by the user.
+
+If the user connects a joypad, it will be detected and the model (eg: "PlayStation 3 Controller")
+will be printed in the GUI.
+
+Methods used:
+
+- `Input.is_action_pressed`
+- `Input.is_key_pressed`
+- `Input.is_joypad_button_pressed`
+- `InputEventJoypadButton`
+- `Input.get_connected_joypads` 
+
 ## Assets
 
 - [Hairic95](https://github.com/Hairic95) - Cultist character sprites

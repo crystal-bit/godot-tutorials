@@ -1,0 +1,30 @@
+[gd_scene load_steps=6 format=2]
+
+[ext_resource path="res://GameNodes/Character/spritesheets/IMG-247.png" type="Texture" id=1]
+[ext_resource path="res://GameNodes/Character/spritesheets/IMG-255.png" type="Texture" id=2]
+[ext_resource path="res://GameNodes/Character/Character.gd" type="Script" id=3]
+[ext_resource path="res://GameNodes/Arrow/Arrow.tscn" type="PackedScene" id=4]
+
+[sub_resource type="SpriteFrames" id=1]
+
+animations = [ {
+"frames": [ ExtResource( 1 ) ],
+"loop": false,
+"name": "rest",
+"speed": 1.0
+}, {
+"frames": [ ExtResource( 2 ) ],
+"loop": true,
+"name": "aim",
+"speed": 5.0
+} ]
+
+[node name="Character" type="AnimatedSprite"]
+frames = SubResource( 1 )
+animation = "rest"
+script = ExtResource( 3 )
+
+[node name="Arrow" parent="." instance=ExtResource( 4 )]
+visible = false
+position = Vector2( 4.69904, 3.84467 )
+
