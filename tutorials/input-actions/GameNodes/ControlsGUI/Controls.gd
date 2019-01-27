@@ -6,7 +6,6 @@ onready var just_released: AnimatedSprite = get_parent().get_node("ActionsVisual
 onready var pressed: AnimatedSprite = get_parent().get_node("ActionsVisualFeedback/Pressed") 
 
 func _process(delta):	
-	# if UP button pressed
 	if Input.is_action_pressed("shoot"):
 		pressed.play("active")
 		$Square.show()
