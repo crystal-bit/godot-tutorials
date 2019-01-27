@@ -1,5 +1,5 @@
 # Input mapping tutorial
-
+- **Godot project download**: [input-mapping.zip](https://github.com/crystal-bit/godot-tutorials/releases/download/2018.01.15/input-mapping-v3.1.zip)
 - **Godot version**: v3.1 (originally created with v3.0)
 - **Link to YouTube video [ITA]**: [Input mapping e azioni - Godot Engine Tutorial](https://youtu.be/Dgr7q80GBaE)
 
