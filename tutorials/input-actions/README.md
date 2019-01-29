@@ -1,7 +1,9 @@
 # Input actions - Godot 3.1 tutorial
 
-- **Godot version**: v3.1
+- **Godot project download**:  [input-actions.zip](https://github.com/crystal-bit/godot-tutorials/releases/download/2018.01.29/input-actions.zip)
 - **Link to YouTube video [ITA]**: [Input actions pt2 - Godot 3.1 Tutorial ITA](https://youtu.be/rZXWdbjcNnI)
+- **Godot version**: v3.1
+
 
 Shows simple usage of the generic Input methods: 
 
