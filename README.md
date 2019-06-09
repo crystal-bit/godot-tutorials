@@ -1,7 +1,10 @@
 # Godot Tutorials
 
+![Thumbnail](https://i.imgur.com/FTYhbfy.png)
+
 Godot projects used in the tutorials of 
 the [Crystal Bit YT channel](https://www.youtube.com/channel/UCFVgUrvckqp0i_pbCj3wjfA).
+
 
 - _source code and comments are in English_
 - _video tutorials are in Italian_
