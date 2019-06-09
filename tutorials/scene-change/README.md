@@ -1,6 +1,6 @@
 # Scene/Level change
 
-- **Godot project download**: [scene-change.zip](https://github.com/crystal-bit/godot-tutorials/releases/download/2019.06.09/scene-change.zipgodot-tutorials/releases/download/2018.01.29/input-actions-v2.zip)
+- **Godot project download**: [scene-change.zip](https://github.com/crystal-bit/godot-tutorials/releases/download/2019.06.09/scene-change.zip)
 - **Link to YouTube video [ITA]**: [Cambiare scena di gioco - Godot 3.1 Tutorial](https://youtu.be/ppvUkZCSQak)
 - **Godot version**: v3.1.1
 
