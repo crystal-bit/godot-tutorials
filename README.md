@@ -10,13 +10,31 @@ the [Crystal Bit YT channel](https://www.youtube.com/channel/UCFVgUrvckqp0i_pbCj
 - _video tutorials are in Italian_
 - the content in this repository is **free for everyone to use, share & redistribute**
 
-## Tutorial list
+The last point is always true for the source code (that is always written by me), but be sure to check for the assets licensing before reusing them.
 
-### Input
+# Tutorial list
+
+## Input
 
 - [Input Mapping e Azioni (pt1) [Godot v3.1]](https://github.com/crystal-bit/godot-tutorials/tree/master/tutorials/input-mapping)
 - [Input Actions (pt2) [Godot v3.1]](https://github.com/crystal-bit/godot-tutorials/tree/master/tutorials/input-actions)
- 
-## Contributing
 
-TODO...
+## Scene management
+
+- [Change level/scene](./tutorials/scene-change)
+
+
+# Contributing
+
+#### The project is not working/there is a bug
+
+Just [open an issue](https://github.com/crystal-bit/godot-tutorials/issues/new) on this repository.
+ 
+#### There is a better way to implement a feature
+
+Nice! Let's do something like:
+
+1. [Open an issue so that everyone can partecipate to the discussion](https://github.com/crystal-bit/godot-tutorials/issues/new) 
+2. [Let's have a discussion on Twitter](https://twitter.com/dav__cri) (useful if we want to include specific people in the discussion).
+3. Let's talk about this <a href="mailto:vitrumbit@gmail.com">via email</a>
+, if it's something that you want to asses before talking about it in the world **wild** web.
