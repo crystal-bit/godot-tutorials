@@ -22,15 +22,17 @@ The last point is always true for the source code (that is always written by me)
 ## Scene management
 
 - [Change level/scene](./tutorials/scene-change)
+- [Scene transitions (fade-in, fade-out)](./tutorials/scene-transitions)
+https://www.youtube.com/watch?v=TkyRdQpRtSE&t=222s
 
 
 # Contributing
 
-#### The project is not working/there is a bug
+#### Did you find a bug?
 
 Just [open an issue](https://github.com/crystal-bit/godot-tutorials/issues/new) on this repository.
  
-#### There is a better way to implement a feature
+#### Do you know a better way to implement a feature?
 
 Nice! Let's do something like:
 
