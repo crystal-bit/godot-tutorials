@@ -12,7 +12,7 @@ the [Crystal Bit YT channel](https://www.youtube.com/channel/UCFVgUrvckqp0i_pbCj
 
 The last point is always true for the source code (that is always written by me), but be sure to check for the assets licensing before reusing them.
 
-# Tutorial list
+# Tutorials
 
 ## Input
 
@@ -23,7 +23,6 @@ The last point is always true for the source code (that is always written by me)
 
 - [Change level/scene](./tutorials/scene-change)
 - [Scene transitions (fade-in, fade-out)](./tutorials/scene-transitions)
-https://www.youtube.com/watch?v=TkyRdQpRtSE&t=222s
 
 
 # Contributing
